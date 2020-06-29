@@ -1,0 +1,12 @@
+When we fetch, merge and push the file from local repo veggie-clone
+all the data will be copied to veggie-favourites.
+
+Let us make maggie
+
+1) First boil water ( amount so that all the part of Maggi is dipped inside the water) in a sauce pan.
+2) Dip the Maggi in water.
+3) Boil it for a minute or two.
+4) After that you find the water turns white.  That is starch. ...
+5) Add the Maggi masala.
+6) Boil for another minute.
+It's ready to eat now.
